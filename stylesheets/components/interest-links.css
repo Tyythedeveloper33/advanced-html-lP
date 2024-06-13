@@ -1,1 +1,11 @@
 /* Your code here */
+
+.nine-col-grid {
+    display: flex;
+    border: 5px solid red ;
+    justify-content: center;
+}
+
+.interests-bar__story-title{
+    font-size: 10px;
+}
